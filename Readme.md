@@ -1,5 +1,5 @@
-  *feedforwardneuralnet*  -This file includes the complete code of the project.   
-  *train.py* -This file can be used for running the code in the terminal.  
+  **feedforwardneuralnet**  -This file includes the complete code of the project.   
+  **train.py** -This file can be used for running the code in the terminal.  
 
 The following packages are used for completing the assignment:-  
   **Numpy** - matrix operations.  
